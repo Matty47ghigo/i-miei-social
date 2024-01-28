@@ -23,16 +23,15 @@ Cliccare in alto su **CODE** e selezionare una delle 3 opzioni :
 <hr size=”10” width="100%" align="center" color="white">
 
 
-# HTML, CSS, JS (Auto Refresh)
+# HTML, CSS, JS (Auto Aggiornamento)
 
-This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
+Questo modello è un punto di partenza per la creazione di un sito Web con HTML, CSS e JS, basato su [Vite](https://vitejs.dev/). L'HTML fornisce la struttura di base, i CSS controllano la formattazione e JavaScript controlla il comportamento dei diversi elementi.
 
-Hit run to see this project in action. It will auto-refresh as you edit the HTML, CSS and JS files.
+Premi Esegui per vedere questo progetto in azione. Si aggiornerà automaticamente mentre modifichi i file HTML, CSS e JS.
 
-## Disable Auto Refresh
+## Disabilita l' Auto aggiornamento
 
-If you find the auto refresh getting in your way, go to [vite.config.js](./vite.config.js) and update it set `hmr` to false to disable hot module reloading (HMR). The full config will look like this:
-
+Se ritieni che l'aggiornamento automatico sia d'intralcio, vai su [vite.config.js](./vite.config.js) e aggiornalo impostando `hmr` su false per disabilitare il ricaricamento del modulo hot (HMR). La configurazione completa sarà simile a questa:
 ```js
 export default defineConfig({
   plugins: [],
@@ -43,11 +42,11 @@ export default defineConfig({
 })
 ```
 
-## Packages
+## Pacchetti
 
-Because this template uses Vite to build your code, you can add install and use npm packages. Simple open the Packager tool to search and manage your packages.
+Poiché questo modello utilizza Vite per creare il codice, puoi aggiungere i pacchetti install e use npm. Apri semplicemente lo strumento Packager per cercare e gestire i tuoi pacchetti.
 
-## Learn More
+## Saperne di più
 
-Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.# i-miei-social
+Consulta [i documenti di vite](https://vitejs.dev) per saperne di più sulla configurazione di un'applicazione frontend.# i-miei-social
 
