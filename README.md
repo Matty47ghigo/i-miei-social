@@ -38,6 +38,8 @@ Esegui un fork del file su replit attraverso questo pulsante dove creererà auto
 È richiesta l'iscrizione al sito in che modo si puo fare ? Eseguendo questi passaggi
 
 1 ) Crea un account su replit [ Registrati ]( https://replit.com/register) oppure [ Accedi ]( https://replit.com/login) puoi utilizzare anche google per autenticarti
+2 ) Dopo esserti registratov recati di nuovo a questa pagina e clicca sul pulsante qui in alto 
+3 ) In modo automatico replit creerà il progetto e lo inizializzerà e tu dovrai solo cliccare il tasto **RUN** ed esso sarà tutto pronto .
 
 `2 MODO`
 
