@@ -30,6 +30,7 @@ Check out [the vite docs](https://vitejs.dev) to learn more about configuring a 
 Per utilizzare questi progetto puoi utilizzarlo in due modi :
 
 `1 MODO`
+
 Esegui un fork del file su replit attraverso questo pulsante dove creererà automaticamente il progetto su replit
 
 [![Run on Repl.it](https://replit.com/badge/github/Matty47ghigo/I-miei-social)](https://replit.com/new/github/Matty47ghigo/i-miei-social)
@@ -41,6 +42,6 @@ Esegui un fork del file su replit attraverso questo pulsante dove creererà auto
 `2 MODO`
 
 Cliccare in alto su **CODE** e selezionare una delle 3 opzioni : 
-- 1. Open the github dekstop dove aprirà il progetto sull'applicazione di github sul pc .
-- 2. Apri con visual studio code dove se si è installato il plugin di github per aprire le reposity di github il progetto sarà aperto su visual studio code e sarà gia disponibile per l'utilizzo .
-- 3. Scarica il zip , qua potrai scaricare un file zip della reposity e dove puoi poi unzippare il file e utilizzarlo con l'applicazione che viene utilizzata da parte dell utente per sviluppare codici .
+ 1. Open the github dekstop dove aprirà il progetto sull'applicazione di github sul pc .
+ 2.  Apri con visual studio code dove se si è installato il plugin di github per aprire le reposity di github il progetto sarà aperto su visual studio code e sarà gia disponibile per l'utilizzo .
+ 3.  Scarica il zip , qua potrai scaricare un file zip della reposity e dove puoi poi unzippare il file e utilizzarlo con l'applicazione che viene utilizzata da parte dell utente per sviluppare codici .
