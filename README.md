@@ -11,7 +11,7 @@ Esegui un fork del file su replit attraverso questo pulsante dove creererà auto
 È richiesta l'iscrizione al sito in che modo si puo fare ? Eseguendo questi passaggi
 
 - Crea un account su replit [ Registrati ]( https://replit.com/register) oppure [ Accedi ]( https://replit.com/login) puoi utilizzare anche google per autenticarti.
-- Dopo esserti registratov recati di nuovo a questa pagina e clicca sul pulsante qui in alto.
+- Dopo esserti registrato recati di nuovo a questa pagina e clicca sul pulsante qui in alto. [![Run on Repl.it](https://replit.com/badge/github/Matty47ghigo/I-miei-social)](https://replit.com/new/github/Matty47ghigo/i-miei-social)
 - In modo automatico replit creerà il progetto e lo inizializzerà e tu dovrai solo cliccare il tasto **RUN** ed esso sarà tutto pronto .
 
 `2 MODO`
