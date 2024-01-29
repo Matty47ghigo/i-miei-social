@@ -1,6 +1,6 @@
 # COME UTILIZZARE IL CODICE 
 
-Per utilizzare questi progetto puoi utilizzarlo in due modi :
+Per utilizzare questo progetto puoi utilizzarlo in due modi :
 
 `1 MODO`
 
