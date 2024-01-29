@@ -1,25 +1,28 @@
 # COME UTILIZZARE IL CODICE 
 
 Per utilizzare questo progetto puoi utilizzarlo in due modi :
+### `1 MODO`
 
-`1 MODO`
-
-Esegui un fork del file su replit attraverso questo pulsante dove creererà automaticamente il progetto su replit
+ Esegui un fork del file su replit attraverso questo pulsante dove creererà automaticamente il progetto su replit
 
 [![Run on Repl.it](https://replit.com/badge/github/Matty47ghigo/I-miei-social)](https://replit.com/new/github/Matty47ghigo/i-miei-social)
 
-È richiesta l'iscrizione al sito in che modo si puo fare ? Eseguendo questi passaggi
+> [!IMPORTANT]
+> È richiesta l'iscrizione al sito in che modo si puo fare ? Eseguendo questi passaggi
+>
+> - [ ] Crea un account su replit [ Registrati ]( https://replit.com/register) oppure [ Accedi ]( https://replit.com/login) puoi utilizzare anche google per autenticarti.
+> - [ ] Dopo esserti registrato recati di nuovo a questa pagina e clicca sul pulsante qui in alto. [![Run on Repl.it](https://replit.com/badge/github/Matty47ghigo/I-miei-social)](https://replit.com/new/github/Matty47ghigo/i-miei-social)
+> - [ ] In modo automatico replit creerà il progetto e lo inizializzerà e tu dovrai solo cliccare il tasto **RUN** ed esso sarà tutto pronto .
 
-- Crea un account su replit [ Registrati ]( https://replit.com/register) oppure [ Accedi ]( https://replit.com/login) puoi utilizzare anche google per autenticarti.
-- Dopo esserti registrato recati di nuovo a questa pagina e clicca sul pulsante qui in alto. [![Run on Repl.it](https://replit.com/badge/github/Matty47ghigo/I-miei-social)](https://replit.com/new/github/Matty47ghigo/i-miei-social)
-- In modo automatico replit creerà il progetto e lo inizializzerà e tu dovrai solo cliccare il tasto **RUN** ed esso sarà tutto pronto .
-
-`2 MODO`
+### `2 MODO`
 
 Cliccare in alto su **CODE** e selezionare una delle 3 opzioni : 
  1. Open the github dekstop dove aprirà il progetto sull'applicazione di github sul pc .
  2.  Apri con visual studio code dove se si è installato il plugin di github per aprire le reposity di github il progetto sarà aperto su visual studio code e sarà gia disponibile per l'utilizzo .
  3.  Scarica il zip , qua potrai scaricare un file zip della reposity e dove puoi poi unzippare il file e utilizzarlo con l'applicazione che viene utilizzata da parte dell utente per sviluppare codici .
+
+
+https://github.com/Matty47ghigo/i-miei-social/assets/121062486/cc66e9c2-ac45-49b2-9f0b-fc68859e1f8b
 <hr size=”10” width="100%" align="center" color="white">
 
 
