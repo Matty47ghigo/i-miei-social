@@ -5,17 +5,9 @@
 
 version: 2
 updates:
-  # Enable version updates for Node
-  - package-ecosystem: "node"
+  # Enable version updates for NPM
+  - package-ecosystem: "npm"
     # Look for a `node` in the `root` directory
-    directory: "/"
-    # Check for updates once a week
-    schedule:
-      interval: "daily"
-
-   # Enable version updates for Vite
-  - package-ecosystem: "vite"
-    # Look for a `vite` in the `root` directory
     directory: "/"
     # Check for updates once a week
     schedule:
